@@ -1,0 +1,29 @@
+PODS:
+  - Nuke (7.5.2)
+  - RxAtomic (4.4.0)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+
+DEPENDENCIES:
+  - Nuke (~> 7.0)
+  - RxCocoa (= 4.4.0)
+  - RxSwift (= 4.4.0)
+
+SPEC REPOS:
+  trunk:
+    - Nuke
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Nuke: 0350d346a688426e8f2331253ef28dc2fc4f6178
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+
+PODFILE CHECKSUM: 32a3c34621f6e4bef6824fd42187e58bde8e7b0b
+
+COCOAPODS: 1.8.4
