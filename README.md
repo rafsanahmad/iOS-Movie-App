@@ -6,10 +6,9 @@ For  login, use username `velometricg` and password `Aaaaaa1!`.**
 This example uses RxSwift observables as binding mechanism between `ViewModel` and `ViewController`. Also, it uses simple navigator for transitions between screns.
 
 | ![](app.gif) |
-| --- | --- |
 
 ## MVVM
-|![](mvvm.png)|
+![](mvvm.png)
 
 
 ## Installation
